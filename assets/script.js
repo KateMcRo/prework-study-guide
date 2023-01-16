@@ -9,7 +9,7 @@ var topic = ['HTML', 'CSS', 'Git', 'JavaScript'];
 } else if (topic === 'JavaScript') {
   console.log("Let's study JavaScript!");
 } else {
-  console.log('Please try again!');
+  console.log('Please try again!!');
 } */
 
 for (var index = 0; index < topic.length; index++){
